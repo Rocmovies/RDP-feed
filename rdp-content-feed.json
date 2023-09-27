@@ -1,382 +1,2816 @@
 {
-  "providerName": "Roku Direct Publisher Sample Feed",
-  "language": "en-US",
-  "lastUpdated": "2020-03-06T00:12:32.125Z",
-  "shortFormVideos": [
-    {
-      "id": "decbe34b64ea4ca281dc09997d0f23fd",
-      "title": "Live Gaming",
-      "shortDescription": "With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
-      "genres": [
-        "gaming",
-        "technology"
-      ],
-      "tags": [
-        "gaming",
-        "broadcasts",
-        "live",
-        "twitch",
-        "technology"
-      ],
-      "releaseDate": "2015-06-11",
-      "content": {
-        "dateAdded": "2015-06-11T14:14:54.431Z",
-        "captions": [],
-        "duration": 53,
-        "adBreaks": [
-          "00:00:00",
-          "00:00:53"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Gb/siCt-V7LOSU08W_Ve1ByJY5N9emKZeXZvnrH2Yb9c/117_segment_2_twitch__nw_060515.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6c9d0951d6d74229afe4adf972b278dd",
-      "title": "Let's Get Cookin'",
-      "shortDescription": "The Paula Deen Channel is your instant access to Paula Deenâ€™s new and hilarious cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/paula-deen-poster-artwork.png",
-      "genres": [
-        "food"
-      ],
-      "tags": [
-        "food",
-        "cooking",
-        "eating"
-      ],
-      "releaseDate": "2015-05-21",
-      "content": {
-        "dateAdded": "2015-05-21T14:14:54.431Z",
-        "captions": [],
-        "duration": 59,
-        "adBreaks": [
-          "00:00:00",
-          "00:00:59"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/An/Ad7-vxssRzyBjjdbdLdikctclTqxwEGsVWZGpiKp4/roku_ep_115_segment_5_paula_nw_050515.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7405a8c101ee4c9da312c426e6067044",
-      "title": "Ideas Worth Spreading",
-      "shortDescription": "TED is a nonprofit devoted to Ideas Worth Spreading. On this channel, youâ€™ll find TEDTalks video to inspire, intrigue and stir the imagination from some of the worldâ€™s leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/ted-poster-artwork.png",
-      "genres": [
-        "educational",
-        "science"
-      ],
-      "tags": [
-        "educational",
-        "science",
-        "innovation"
-      ],
-      "releaseDate": "2015-05-21",
-      "content": {
-        "dateAdded": "2015-05-21T14:14:54.431Z",
-        "captions": [],
-        "duration": 71,
-        "adBreaks": [
-          "00:00:00",
-          "00:01:11"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/p-/IBQ_ar_jBKNjk2ZGYCNHHNcN7v6Qy2Gf4V517CuX0/roku_ep_115_segment_1_ted_nw_050515.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5686748268874a57a4ba3debda1619dd",
-      "title": "Fanboys Unite",
-      "shortDescription": "ConTv is a channel that promises to let you \"immerse yourself in the Comic Con experience.\" The channel offers Sci-fi and monster movies, cult classics, martial arts, hit television series from years past, and more.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
-      "genres": [
-        "science fiction"
-      ],
-      "tags": [
-        "science fiction",
-        "Comics",
-        "cult"
-      ],
-      "releaseDate": "2015-08-13",
-      "content": {
-        "dateAdded": "2015-08-13T14:14:54.431Z",
-        "captions": [],
-        "duration": 63,
-        "adBreaks": [
-          "00:00:00",
-          "00:01:03"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/QQ/6q06mla758cIcH6GFeTCKS-iTyFVH5PCCDYbScMzM/ep-126-seg-3_contv_v1-mo.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37d290e03d894135b07c5e514cbad72d",
-      "title": "Fight Pass",
-      "shortDescription": "UFCTV gives you Live and On-Demand access to UFC events and classic fights. UFC (Ultimate Fighting Championship), is the worldâ€™s leading mixed martial arts sports association.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/ufc-poster-artwork.png",
-      "genres": [
-        "sports"
-      ],
-      "tags": [
-        "MMA",
-        "sports",
-        "Fighting"
-      ],
-      "releaseDate": "2015-05-28",
-      "content": {
-        "dateAdded": "2015-05-28T14:14:54.431Z",
-        "captions": [],
-        "duration": 52,
-        "adBreaks": [
-          "00:00:00",
-          "00:00:52"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/XI/rKvS5XPfw2LqmtwT9ui46x-tPztbus7TVs-TPWpto/roku_ep_115_segment_3_ufc_nw_051815.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "42137542fa884b97a2a72cb356ae21b9",
-      "title": "Giant Sharks And More",
-      "shortDescription": "The best collection of high-quality documentary programs anywhere. History, science, space, nature, adventure - XiveTV has it all. From sharks and war, to UFOs and black holes, and much more!",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/xive-poster-artwork.png",
-      "genres": [
-        "history",
-        "science",
-        "nature",
-        "adventure"
-      ],
-      "tags": [
-        "History",
-        "science",
-        "nature",
-        "adventure",
-        "Space"
-      ],
-      "releaseDate": "2015-07-02",
-      "content": {
-        "dateAdded": "2015-07-02T14:14:54.431Z",
-        "captions": [],
-        "duration": 67,
-        "adBreaks": [
-          "00:00:00",
-          "00:01:07"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Ks/IPueo9XOsmphulkqjld8bgmVZLMto1Mob5NkTioiw/roku_119_segment_2_062315.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7ec4711dc886464fa16001c1962904f8",
-      "title": "Get Your Game Face On",
-      "shortDescription": "Accessing your favorite live sports and shows from ESPN is now easier than ever with WatchESPN. WatchESPN brings you 24/7 live programming from your favorite ESPN networks, including: ESPN, ESPN2, ESPN3, ESPNU, SEC Network, SEC Network +, ESPNews, ESPN Deportes, Longhorn Network, ESPN Goal Line, ESPN Buzzer Beater, and ESPN Bases Loaded.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/espn-poster-artwork.png",
-      "genres": [
-        "sports"
-      ],
-      "tags": [
-        "sports",
-        "baseball",
-        "football",
-        "tennis"
-      ],
-      "releaseDate": "2015-08-27",
-      "content": {
-        "dateAdded": "2015-08-27T14:14:54.431Z",
-        "captions": [],
-        "duration": 48,
-        "adBreaks": [
-          "00:00:00",
-          "00:00:48"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Ky/2OunKRyOuZieo4oipZIci_mCWi6Fgoyx4A9QB6ts8/rr_ep_124_segment_2_080315_h264.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6",
-      "title": "Get Slimed",
-      "shortDescription": "Nickelodeon, the number-one entertainment brand for kids, is now available for free on Roku players and Roku TV models in the U.S.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/nickelodeon-poster-artwork.png",
-      "genres": [
-        "children"
-      ],
-      "tags": [
-        "children",
-        "kids"
-      ],
-      "releaseDate": "2015-08-13",
-      "content": {
-        "dateAdded": "2015-08-13T14:14:54.431Z",
-        "captions": [],
-        "duration": 52,
-        "adBreaks": [
-          "00:00:00",
-          "00:00:52"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/-q/2sQpF_wSsO8JsXyS4K25pVQY48OrAP6d55P11SxWI/ep-123-seq-4-nick-alt_081215.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a4d29aebf55e499c968ce02469859637",
-      "title": "College Sports",
-      "shortDescription": "The Campus Insiders Roku channel provides college sports fans with videos covering college basketball and college football.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/campus-insider-poster-artwork.png",
-      "genres": [
-        "sports"
-      ],
-      "tags": [
-        "sports",
-        "football",
-        "college",
-        "basketball"
-      ],
-      "releaseDate": "2015-04-30",
-      "content": {
-        "dateAdded": "2015-04-30T14:14:54.431Z",
-        "captions": [],
-        "duration": 64,
-        "adBreaks": [
-          "00:00:00",
-          "00:01:04"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/5R/Xi8Cs-kW1K2deESb5dh8dGS-qBMJ0cDnJ-olhVIzw/roku_ep_113_segment_3_college_insiders_042415.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "69ce40b268fa4766aa1612131aa74898",
-      "title": "Cult Scary Movies",
-      "shortDescription": "The Cult Movie network has it all, 24 hours a day, seven days a week. Watch the cult films you can't find anywhere else on television - if you're into that sort of thing.",
-      "thumbnail": "https://blog.roku.com/developer/files/2016/10/cult-movie-network-poster-artwork.png",
-      "genres": [
-        "science fiction",
-        "thriller"
-      ],
-      "tags": [
-        "cult",
-        "Sci-fi",
-        "thriller"
-      ],
-      "releaseDate": "2015-11-05",
-      "content": {
-        "dateAdded": "2015-11-05T14:14:54.431Z",
-        "captions": [],
-        "duration": 96,
-        "adBreaks": [
-          "00:00:00",
-          "00:01:36"
-        ],
-        "videos": [
-          {
-            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4m/t175AcvGe2Av_1SNj6IYuAhzfVUZCWVgNsOMVMYag/pta.mp4",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ]
-      }
-    }
-  ],
-  "playlists": [
-    {
-      "name": "sports",
-      "itemIds": [
-        "a4d29aebf55e499c968ce02469859637",
-        "7ec4711dc886464fa16001c1962904f8",
-        "37d290e03d894135b07c5e514cbad72d",
-        "decbe34b64ea4ca281dc09997d0f23fd"
-      ]
-    },
-    {
-      "name": "misc",
-      "itemIds": [
-        "6c9d0951d6d74229afe4adf972b278dd",
-        "7405a8c101ee4c9da312c426e6067044",
-        "5686748268874a57a4ba3debda1619dd",
-        "42137542fa884b97a2a72cb356ae21b9",
-        "69ce40b268fa4766aa1612131aa74898",
-        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
-      ]
-    },
-    {
-      "name": "short-form",
-      "itemIds": [
-        "decbe34b64ea4ca281dc09997d0f23fd",
-        "6c9d0951d6d74229afe4adf972b278dd",
-        "7405a8c101ee4c9da312c426e6067044",
-        "5686748268874a57a4ba3debda1619dd",
-        "37d290e03d894135b07c5e514cbad72d",
-        "42137542fa884b97a2a72cb356ae21b9",
-        "7ec4711dc886464fa16001c1962904f8",
-        "a4d29aebf55e499c968ce02469859637",
-        "69ce40b268fa4766aa1612131aa74898",
-        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
-      ]
-    }
-  ],
-  "categories": [
-    {
-      "name": "Roku Recommends",
-      "playlistName": "short-form",
-      "order": "manual"
-    },
-    {
-      "name": "Sports & Gaming",
-      "playlistName": "sports",
-      "order": "manual"
-    },
-    {
-      "name": "Miscellaneous",
-      "playlistName": "misc",
-      "order": "manual"
-    }
-  ]
+    "providerName": "Roc Caldwell",
+    "lastUpdated": "2023-09-19T14:35:08-04:00",
+    "language": "en",
+    "movies": [
+        {
+            "id": "808156009",
+            "title": "ROC n WHIPS Hosted by SoultryAmore",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1636063891-4d30046b17ece113f355d223ff328f4ab7f5cd911557dc27408e8a794159f6bd-d_800x450",
+            "releaseDate": "2023-03-14T21:19:33-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1146,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808156009.m3u8?s=bd4f6cc9c4eb054345e185ae424fb2116247469b",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808156066",
+            "title": "Roc n Whips TV Feat  A Luv",
+            "shortDescription": "To all independent artist with music videos hit this link now, any models looking for exposure hit this link now, THE NEWEST WORLDWIDE EPISODE OF MUSIC VIDEOS FROM AROUND THE WORLD, #ROCNWHIPS",
+            "thumbnail": "https://i.vimeocdn.com/video/1632361868-3b56847a16f8808a0e3942c51b6e55ffd96997857d7ef97113cd05588cfffc47-d_800x450",
+            "releaseDate": "2023-03-14T21:19:55-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1374,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808156066.m3u8?s=16c43d297f8e4953cf145bdbbcc0959158f6ab0c",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808157081",
+            "title": "Roc n Whips Hosted by Love the Huss-Man",
+            "shortDescription": "To all independent artist with music videos hit this link now, any models looking for exposure hit this link now, THE NEWEST WORLDWIDE EPISODE OF MUSIC VIDEOS FROM AROUND THE WORLD, #ROCNWHIPS",
+            "thumbnail": "https://i.vimeocdn.com/video/1636097282-26541961a428af37a26b610cdb302e03a66f0085a32927d0888dbf759cef385f-d_800x450",
+            "releaseDate": "2023-03-14T21:25:50-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 2984,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808157081.m3u8?s=dbab71ec9a3feca6f42b413a899af63404c42fbd",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808159121",
+            "title": "Roc n Whips Hosted by Goddess Trixie",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1636063207-a8e7b2aa3982a96c1929acc4a7636522e8f88125182b045d83ca8ffc145432b6-d_800x450",
+            "releaseDate": "2023-03-14T21:36:20-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1557,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808159121.m3u8?s=818a6e7edf8533c9764197a4bf3ad8f253fd56f5",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808159269",
+            "title": "ROC n WHIPS Hosted By Icee",
+            "shortDescription": "To all independent artist with music videos hit this link now, any models looking for exposure hit this link now, THE NEWEST WORLDWIDE EPISODE OF MUSIC VIDEOS FROM AROUND THE WORLD, #ROCNWHIPS",
+            "thumbnail": "https://i.vimeocdn.com/video/1636098223-2fb42f0c6331a4d5bd371a64180285fdad5976b0f6df947ece954a4d6d9b7038-d_800x450",
+            "releaseDate": "2023-03-14T21:37:04-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1431,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808159269.m3u8?s=a7c46b9d74097c5c776d5504e393cc478690f494",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808159426",
+            "title": "Roc n Whips Hosted By Juicylena",
+            "shortDescription": "A Music Video show featured very talented unsigned artist from all over the world, send us your video to be featured in upcoming episodes. krocnradio@yahoo.com",
+            "thumbnail": "https://i.vimeocdn.com/video/1636062013-ddc19d7ebaf05d065f7f7e54d4fd599d116a5061d7df6e94b765919649eab0b1-d_800x450",
+            "releaseDate": "2023-03-14T21:37:47-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1242,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808159426.m3u8?s=6d5578202179bd198a83bc95ad0a1d05e30171dd",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809628018",
+            "title": "Sidero records Trailor",
+            "shortDescription": "A corrupt Record label owner who works for a drug Queenpin, ends up owing her money to which he has a hard time paying back. With a hit being put out on him, he decides to steal the money from his Artist by bogus contracts and romantic Lies. as he's hired to perform hits by Queenpin to help repay his debts.lots of Betrayal, Backstabbing and corruption, In the end of it all though, no one is safe!",
+            "thumbnail": "https://i.vimeocdn.com/video/1636091609-2ad2208419970e7f259b18b1bce635e3e2d575f4edc2c7e13b1b7ee70049ba3e-d_800x450",
+            "releaseDate": "2023-03-20T00:26:05-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 56,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809628018.m3u8?s=184a93d7e80f2eff55d0f51663d451774bd964f4",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809253086",
+            "title": "RocFitness Workout 001",
+            "shortDescription": "RocFitness Workout Videos are geared towards Men and Women 50 Yrs and Over who love to do low impact workouts without the stressful use of weights. Come get into shape with Host Roc of RocFitness Workouts.",
+            "thumbnail": "https://i.vimeocdn.com/video/1636066600-980541477fed90a3a3b3fb3bfa53b78f154da54bf87e9eddeafd3718c35cb462-d_800x450",
+            "releaseDate": "2023-03-17T22:43:58-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1422,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809253086.m3u8?s=5ffadfd5b40ce6eb40b5d2eda61798cfcb84f626",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809272147",
+            "title": "RocFashions workout 002",
+            "shortDescription": "RocFitness Workout Videos are geared towards Men and Women 50 Yrs and Over who love to do low impact workouts without the stressful use of weights. Come get into shape with Host Roc of RocFitness Workouts.",
+            "thumbnail": "https://i.vimeocdn.com/video/1636066276-c639623278b39412a92ca96e73c17164774f895e87d025d2818b104bbf287f45-d_800x450",
+            "releaseDate": "2023-03-18T01:58:15-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1480,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809272147.m3u8?s=c718386fe4df3d35f958706be731bafed719c93d",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809273944",
+            "title": "RocFashions workout 003",
+            "shortDescription": "RocFitness Workout Videos are geared towards Men and Women 50 Yrs and Over who love to do low impact workouts without the stressful use of weights. Come get into shape with Host Roc of RocFitness Workouts.",
+            "thumbnail": "https://i.vimeocdn.com/video/1636065895-ef3952f3098faf84cf9213d20eadbeda93f97b76f1abc6212f18a15aae1a20a6-d_800x450",
+            "releaseDate": "2023-03-18T02:17:59-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1377,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809273944.m3u8?s=67183d675f1d1b334f7df1a5ada23f3e0917bec6",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809275661",
+            "title": "RocFashions workout 004",
+            "shortDescription": "RocFitness Workout Videos are geared towards Men and Women 50 Yrs and Over who love to do low impact workouts without the stressful use of weights. Come get into shape with Host Roc of RocFitness Workouts.",
+            "thumbnail": "https://i.vimeocdn.com/video/1636065565-cf2bba75cc80c2118e2d9c8e32b511a6d2442cd63a6f1377f4329c8741b17281-d_800x450",
+            "releaseDate": "2023-03-18T02:37:25-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1289,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809275661.m3u8?s=0a4d25bdc30fad7712d53209ef9bbff7ac446cec",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "811464098",
+            "title": "\"Sidero Records\" Trailor",
+            "shortDescription": "A Film by Director/ Writer Roc Caldwell, even though you may not know us, we need your support by watching and share'ing this link please, Thanks\nA corrupt Record label owner who works for a drug Queenpin, ends up owing her money to which he has a hard time paying back. With a hit being put out on him, he decides to steal the money from his Artist by bogus contracts and romantic Lies. as he's hired to perform hits by Queenpin to help repay his debts.lots of Betrayal, Backstabbing and corruption, In the end of it all though, no one is safe!\nMy very First Full length movie, your gonna love the drama and comedy in this Movie, please subscribe and hit the notification bell, i have way more videos and movies to com, thanks",
+            "thumbnail": "https://i.vimeocdn.com/video/1658259853-c2c781f2c7c8018d5adc42c9b5575d6e53dc73fd1d2d366c912d12df615c81cd-d_800x450",
+            "releaseDate": "2023-03-24T19:05:57-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 56,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/811464098.m3u8?s=c9679804723fc7123062f9772dd96ace1cdcdc00",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "808193133",
+            "title": "206 TownBidness Throwback Pilot episode",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1632476200-acc74539afd713ed34e67333d88cb8976b429780392fc8e2cac9c0860c366de0-d_800x450",
+            "releaseDate": "2023-03-15T01:09:05-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1340,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/808193133.m3u8?s=a908f6ee9a551d8777d663321b1afb1ba116618e",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "809656046",
+            "title": "Ep.2 206 TownBidness throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1636203716-61d8e74923ea8dec642b8279dd1f5b4a6d727af6fb2d8c3464d501064642bcac-d_800x450",
+            "releaseDate": "2023-03-20T03:34:06-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 2689,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/809656046.m3u8?s=c3ebf27aabdd237fcf55fb790c955b38d7cd4da4",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "812683515",
+            "title": "Ep.3 206 TownBidness throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1643317153-371a9e4ad2f6ff9b1bcf81d598447bce1c74473c26a25fcb4eac2898d74df4a6-d_800x450",
+            "releaseDate": "2023-03-29T01:33:12-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 2790,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/812683515.m3u8?s=bb8f4249db038eee5cda7fc49a09ab6579f76ae8",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "818267063",
+            "title": "Ep.4 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1656610255-2d2401b145eede168a34ed5c8dffd3ac48376e6d0d8d82fe9c95ddb4db6c2aed-d_800x450",
+            "releaseDate": "2023-04-17T03:22:23-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 3639,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/818267063.m3u8?s=507992fd3a8389c5f99b559c10db4ffc2ca659c1",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "816149029",
+            "title": "Ep.5 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1652664206-cd3c0a216f681cea643f5f9de80853f799adf17e296319857aa64da6f023e431-d_800x450",
+            "releaseDate": "2023-04-10T04:25:11-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 2835,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/816149029.m3u8?s=3afeaeeead13b514e91eb4e88121e7c37a80fac3",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "818270371",
+            "title": "Ep.6 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode.\n#throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma",
+            "thumbnail": "https://i.vimeocdn.com/video/1656609631-3b107f38b320ce19771058df3b319dfbd81eca02c75c26c444df6842adf025f2-d_800x450",
+            "releaseDate": "2023-04-17T03:37:11-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 3538,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/818270371.m3u8?s=5616d9385b72401d3c4ed484e5d82af9cc2a89cd",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "820418720",
+            "title": "Ep.7 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode. #throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma #roku #vimeo",
+            "thumbnail": "https://i.vimeocdn.com/video/1660131439-86e15a87d1018075c3419d7da21a81002959412f674bee68471f88366073b261-d_800x450",
+            "releaseDate": "2023-04-24T03:10:26-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1923,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/820418720.m3u8?s=b5a10fbf2613e4a047e14f3a530c8076fa93bc54",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "824301102",
+            "title": "Ep.8 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode. #throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma #roku #vimeo",
+            "thumbnail": "https://i.vimeocdn.com/video/1666653401-a24fd8f327b9c451c74ddb3292f22170de7967f8cd7b465ab2c1736f80c92f00-d_800x450",
+            "releaseDate": "2023-05-06T02:53:24-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 2489,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/824301102.m3u8?s=720e257c56e6cd1a450ed8bf0dcb9225e499b067",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "830428629",
+            "title": "Ep.9 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode. #throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma #roku #vimeo",
+            "thumbnail": "https://i.vimeocdn.com/video/1675255143-e01ddcc277faeea346602554459bee09ac72ac627d985361ca43aa20f507daa8-d_800x450",
+            "releaseDate": "2023-05-25T23:40:16-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-26T00:54:39-04:00",
+                "duration": 3284,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/830428629.m3u8?s=d4a26db0755f4287fc376c9ce30df7aac95af65d",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "839622161",
+            "title": "Ep.10 206 TownBidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode. #throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma #roku #vimeo",
+            "thumbnail": "https://i.vimeocdn.com/video/1689538035-034e09819c747bc3078fbacfd50130d3f225ed342824e9dee177037cfbe65da0-d_800x450",
+            "releaseDate": "2023-06-26T03:22:34-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-06-26T14:45:19-04:00",
+                "duration": 2764,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/839622161.m3u8?s=c31395dd49c8937cf43ca59245f8a2c9c7c6caa4",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "855101154",
+            "title": "Ep.11 206 Townbidness Throwback Show",
+            "shortDescription": "The 206 TownBidness Throwback series is a collection of years of NW Artist of all types from 20+ years ago, showcasing such great talent from the town as Seattle, Tacoma and various city's have always had such great Talent. We have Live performances, Concerts, Parks, BBQ's, and more TownBidness, so TUNE IN!!! Subscribe and hit the notification bell so you wont miss an episode. #throwback #fyp #youtube #seattle #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #tacoma #roku #vimeo",
+            "thumbnail": "https://i.vimeocdn.com/video/1711328746-2f3f9a251d5c73e86fbcea8ae98090f9d33dd5327d4e61ee2fbf7769017f0691-d_800x450",
+            "releaseDate": "2023-08-16T13:27:53-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-16T14:05:59-04:00",
+                "duration": 4331,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/855101154.m3u8?s=2242765f9a720ed8cac1f93595184c5c44719f03",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "813434262",
+            "title": "\"Fantasma\" the Movie  trailor",
+            "shortDescription": "“Fantasma” A Mystery thriller about a guy who after losing his wife to an illness decides to move on and make a new life for himself. He finds that and a lot more. Written and Directed by, Roc Caldwell, We are sure your going to love watching this short Movie Production. please subscribe and hit notification, FOR UPCOMING FILMS, Thank You.\n#Fantasma #fyp #youtube #kingofro #imdb #subscribe #igtv #linktree #filmmaker #follow #rocsmovie #siderorecords #rocfashions #independent #seattle",
+            "thumbnail": "https://i.vimeocdn.com/video/1688335371-b4a8b96bc11aeec0f7930f0cfb76cac86604431c2420202172421a4cce0a9431-d_800x450",
+            "releaseDate": "2023-03-31T01:13:03-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 83,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/813434262.m3u8?s=08ca28b6bd5b0e80a086d61ad157adb692234850",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "815091486",
+            "title": "Serious Artist must Watch this....",
+            "shortDescription": "We want to play your Music Video on our Worldwide show, send us your music video and we'll get you out there on our show \"Roc n Whips\" 2.0  over 22k views daily to our channel and still growing. TAG ANY ARTIST...\nSend Videos (no links we need the file) Via dropbox to: KROCNRADIO@ YAHOO.COM (any Beautiful hosteses wanna host for a few $$, inbox us now)#rocnwhips #rocmovies #siderorecords #worldwide #africa #europe #jamaica #music #videography",
+            "thumbnail": "https://i.vimeocdn.com/video/1649299621-458a2878868f0c6d790ad73ef394fbb5cf772523859c14a13435efe6c633f505-d_800x450",
+            "releaseDate": "2023-04-05T15:20:32-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 29,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/815091486.m3u8?s=70204da772ffd997c58006ac3619afa5524c04e5",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "813096164",
+            "title": "Roc n Whips 2.0 Hosted By MoSongstress",
+            "shortDescription": "A Music Video Platform for all Independent Artist, Shownig Videos from all over the World.................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) send us your music video and we'll get you out there on our show \"Roc n Whips\" 2.0  over 22k views daily to our channel and still growing. TAG ANY ARTIST...\nSend Videos (no links we need the file) Via drobox to: KROCNRADIO@ YAHOO.COM and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.linktr.ee/rocsmovie CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1644265440-3843fcc3a9d96e8bc3448c8a293a1cd610e8e189c4f4524eddf18d592afc46d0-d_800x450",
+            "releaseDate": "2023-03-30T04:01:01-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1702,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/813096164.m3u8?s=bf3a752b717635ba4b420c1f9260779a27a68b61",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "810782939",
+            "title": "Roc n Whips 2.0 Hosted by: SelectaRoc",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1638622303-67bbef5a0df70ddf8ad55fccec3ba208a81c5c5df5fedc1b50bc729396473069-d_800x450",
+            "releaseDate": "2023-03-23T00:05:52-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1917,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/810782939.m3u8?s=7fcfebee4cfea2fb3cb6f8c4642e58a428be5e25",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "821908990",
+            "title": "Roc n Whips 2.0 Hosted by Trinity Jackson",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1662406695-f4164fe618ca9a7a1993719353834313ced33e5028a27a8777a0e9a3b55e6793-d_800x450",
+            "releaseDate": "2023-04-28T01:47:05-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1799,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/821908990.m3u8?s=4cf2c68687805312f30ce6dd7453354fae932d8b",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "827780575",
+            "title": "Roc n Whips Hosted by KeeyShonna",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1671483354-41e4d435de4c1fe4ef91ebeb6bbc56c9f4519e0988f498cbc3585bd5ce88f103-d_800x450",
+            "releaseDate": "2023-05-17T16:29:53-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 1672,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/827780575.m3u8?s=77a15a8c3cbed0d24c9928bad22d2c1be0173b29",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "837437962",
+            "title": "Roc N Whips Hosted By Prindacity hb",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1685938404-5d99fcf19ec2d5b756afc25b8f5982acf96146d5910b3ffd122a30948761605b-d_800x450",
+            "releaseDate": "2023-06-18T23:39:48-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-06-19T00:55:06-04:00",
+                "duration": 2309,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/837437962.m3u8?s=e1cfbe8194cc550a5ca8d6352f49ebeb12b92ebe",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "843586910",
+            "title": "Roc N Whips Hosted By Jasmin",
+            "shortDescription": "A worldwide web tv  Music video show, showcasing independent Artist from all over the world, Send us your Music Videos if you wish to be featured in upcoming shows: krocnradio@yahoo.com\n\nA Music Video Platform for all Independent Artist................\n\nSend us your music videos, backstage, all access, party, etc. Videos ,(.avi, .flv, .mpg) to our email address rocsmovie@ymail.com  and we'll be sure to get you in an upcoming episode.\n\nHelp us by Reppin us and Name droppin \"Roc n Whips Tv\" in your videos.   come by our web page for more.  www.rocsmovienphoto.me  CHECK US OUT!",
+            "thumbnail": "https://i.vimeocdn.com/video/1695487859-c6f61e19b14d57dcb71fedb8b8b74ddf657921ef29a8b75be3e69bb230eba759-d_800x450",
+            "releaseDate": "2023-07-09T02:22:30-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-09T13:33:51-04:00",
+                "duration": 1782,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/843586910.m3u8?s=d2603274f4f79fd962258d159f2c9e5e48b1db50",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "850365983",
+            "title": "Roc N Whips Hosted By Demita Northern",
+            "shortDescription": "Roc N Whips Hosted By Demita Northern, Be sure to tune in and check out special edition of \"Roc n Whips\" Hosted by Demita Northern Broadcasting out of Clarksville Tennessee....\nthis episode will be showcasing some of her own personal favorite videos, airing August 3rd, please help us with your support by sharing, Her Hottt music videos are about to come your way. #roku #firestick #youtube #fyp #musicvideo",
+            "thumbnail": "https://i.vimeocdn.com/video/1704700932-3a05278a5ed354b3e893a895282eee0eceb990f959b21996b905d8bca5fd89dc-d_800x450",
+            "releaseDate": "2023-07-31T18:41:29-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-03T02:32:40-04:00",
+                "duration": 1295,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/850365983.m3u8?s=743ff1443ff476f6e645ef9af2ba5b1e31ec7e6b",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "852172664",
+            "title": "Roc N Whips Hosted By Selectaroc",
+            "shortDescription": "Roc N Whips 2.0 Hosted By SelectaRoc, Be sure to tune in and check out special edition of \"Roc n Whips\" Hosted by SelectaRoc,\nthis episode will be showcasing some of His own personal favorite videos, airing August 3rd, please help us with your support by sharing, His Hottt music videos choices are about to come your way. #roku #firestick #youtube #fyp #musicvideo",
+            "thumbnail": "https://i.vimeocdn.com/video/1707205905-95b2ce45402cc22a51e001dfe8973c6df9c0fab5480755c6a9449ac9fed4f6f0-d_800x450",
+            "releaseDate": "2023-08-06T18:22:27-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-09T17:38:44-04:00",
+                "duration": 1749,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/852172664.m3u8?s=f5f4b70d771eb7b7971293d97f24754b4956da42",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "816077283",
+            "title": "Need Video / Audio production?",
+            "shortDescription": "Showcasing a few of the services we offer and provide. From Video production, Music production, Clothing and apparel. Contact us.\nIf you like the video please do us a favor and hit \"like\" Thank you.",
+            "thumbnail": "https://i.vimeocdn.com/video/1652190334-c36f9411fa6c8254d2a4af348e5dea375b5e3d21d8d7d89c54dbe1e5996d377a-d_800x450",
+            "releaseDate": "2023-04-09T18:45:45-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 30,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/816077283.m3u8?s=f27f825a4eb409e74bcbbdeb188fdbdd4ce52b07",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "827743167",
+            "title": "Da ElRoys Ep.1 Hosted by KeeyShonna",
+            "shortDescription": "A show showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1671493483-d4f60f72c64915f1757c065b98658f60e5776ec6394d81a0dbe2631e269719d4-d_800x450",
+            "releaseDate": "2023-05-17T14:33:10-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 4295,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/827743167.m3u8?s=cee6d57c79fe0e687975cfcbc71f87d4f6bc9797",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "837230304",
+            "title": "Da Elroys Hosted By Violet Renee'",
+            "shortDescription": "A show showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1685594558-308813cb143b660dd1f7ac8bd7d542a0fc540583b8133792a79cd08899e6e88c-d_800x450",
+            "releaseDate": "2023-06-17T19:07:27-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-06-17T22:52:48-04:00",
+                "duration": 3435,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/837230304.m3u8?s=699e4fd5348b1f9c54dd70115b9c94d6bb76c786",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "842056798",
+            "title": "Da ElRoys Hosted by Jazmynn",
+            "shortDescription": "A show showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1692996368-4c800700691f478de82c5cf9d0ff88f4e928cac06fe37f29dec630051de5f44a-d_800x450",
+            "releaseDate": "2023-07-03T23:29:12-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-04T00:46:05-04:00",
+                "duration": 2318,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/842056798.m3u8?s=022c12f70174fbaf86863079b312bfcdce72a150",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "852437147",
+            "title": "Da ElRoys Hosted by: SelectaRoc",
+            "shortDescription": "A Special Edition Episode showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys\" as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1707613376-45c5709f5980de73a3d227a4521d5cf3124ec80b9854d8bd31c79a91cc942834-d_800x450",
+            "releaseDate": "2023-08-07T14:48:11-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-07T16:32:04-04:00",
+                "duration": 3923,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/852437147.m3u8?s=c80a37db28b30a159b63c71c5a2b78dd00b3cae2",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "852225331",
+            "title": "Da Elroys Hosted By Selectaroc",
+            "shortDescription": "A show showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1707295004-01fc6c29c0644f1733bc91fb5d07c0470039876c32fe66fa895a43b37ae79dfe-d_800x450",
+            "releaseDate": "2023-08-07T00:47:52-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-07T01:34:01-04:00",
+                "duration": 3566,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/852225331.m3u8?s=4fc946130cc929434ff87f4ef0b412dfacb96a3a",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "849410730",
+            "title": "Da Elroys hosted by BabyGirl",
+            "shortDescription": "A show showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1703381133-9ccf77ddec1758916a1beae0ca05ca6dd0f82811a9120f6da961deb0f91aa85a-d_800x450",
+            "releaseDate": "2023-07-28T05:35:36-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-28T05:53:43-04:00",
+                "duration": 3364,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/849410730.m3u8?s=12f02681a0c585c007cdb959a80ac5094fcf9947",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "802587632",
+            "title": "King of Ro Trailor",
+            "shortDescription": "Upcoming \"Charm\" try's to get rid of the other Kingpins in town so that they can become the tops in the town, but troubles and betrayal is around every corner",
+            "thumbnail": "https://i.vimeocdn.com/video/1620030992-aeaef8dcf48ad8040765532a0a494fc1c6d4f34d8940bcab2f1971d8cb442801-d_800x450",
+            "releaseDate": "2023-02-27T02:39:04-05:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-05-25T01:58:01-04:00",
+                "duration": 48,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/802587632.m3u8?s=f5db785abe430d7601e3763cd00465544d39ceb2",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "845620315",
+            "title": "The Network Zoom Meeting 7 2 23 hb",
+            "shortDescription": "we built this platform for creators to build community and grow your brand, which we are doing quickly! We meet EVERY Sunday to contribute to the growth of the NETWORK.\nThis is a group for creators (artists, writers, producers, directors, DJ's, promotors, comedians, businesspeople etc.) to network, build, uplift empower and share their content.!",
+            "thumbnail": "https://i.vimeocdn.com/video/1698359207-b133f1f6974c7d82093ef55f2f8c1a2d67188b411bcd0f992e864d9f3c1aa829-d_800x450",
+            "releaseDate": "2023-07-15T22:33:54-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-16T12:24:11-04:00",
+                "duration": 4980,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/845620315.m3u8?s=87709576fff5c52dc14a5306dbc62fadad5fc970",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "845620286",
+            "title": "The Network Meeting W Clyde Merriwether",
+            "shortDescription": "we built this platform for creators to build community and grow your brand, which we are doing quickly! We meet EVERY Sunday to contribute to the growth of the NETWORK.\nThis is a group for creators (artists, writers, producers, directors, DJ's, promotors, comedians, businesspeople etc.) to network, build, uplift empower and share their content.!",
+            "thumbnail": "https://i.vimeocdn.com/video/1698360134-bb1df036f9e38a50ee0758eaa73157804e2ec8f13c666ed895abd1afad6aca12-d_800x450",
+            "releaseDate": "2023-07-15T22:33:35-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-16T12:27:56-04:00",
+                "duration": 2602,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/845620286.m3u8?s=4868cf3738bbc9efdc144076c33efcc1ed6ddacd",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "845620261",
+            "title": "The Network Meeting 7 9 23",
+            "shortDescription": "we built this platform for creators to build community and grow your brand, which we are doing quickly! We meet EVERY Sunday to contribute to the growth of the NETWORK.\nThis is a group for creators (artists, writers, producers, directors, DJ's, promotors, comedians, businesspeople etc.) to network, build, uplift empower and share their content.!",
+            "thumbnail": "https://i.vimeocdn.com/video/1698360787-4a096bf2a73450aad27874ee43f76d2358cb45812fdb4dc179efb475bbdc3929-d_800x450",
+            "releaseDate": "2023-07-15T22:33:19-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-16T12:29:55-04:00",
+                "duration": 4978,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/845620261.m3u8?s=246856e3c9ab08e7c1991a45b55126d0b9971de6",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "845848031",
+            "title": "The Network Meeting 7 16 23",
+            "shortDescription": "we built this platform for creators to build community and grow your brand, which we are doing quickly! We meet EVERY Sunday to contribute to the growth of the NETWORK.\nThis is a group for creators (artists, writers, producers, directors, DJ's, promotors, comedians, businesspeople etc.) to network, build, uplift empower and share their content.!",
+            "thumbnail": "https://i.vimeocdn.com/video/1698578118-1061bfbc672c3aaa2a2d5d72f4e0b40c4ffc32950a12ca92af2ba65b461a11bc-d_800x450",
+            "releaseDate": "2023-07-17T04:56:43-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-17T05:20:42-04:00",
+                "duration": 3491,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/845848031.m3u8?s=4b7362d43859a20f336f7232b87bafb872e9647e",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "849434108",
+            "title": "The Network Meeting 7 23 23",
+            "shortDescription": "we built this platform for creators to build community and grow your brand, which we are doing quickly! We meet EVERY Sunday to contribute to the growth of the NETWORK.\nThis is a group for creators (artists, writers, producers, directors, DJ's, promotors, comedians, businesspeople etc.) to network, build, uplift empower and share their content.!",
+            "thumbnail": "https://i.vimeocdn.com/video/1703414489-e4e7cb81843b5bb790c031e47130bc842db0c400217639deb22efb9d2426349e-d_800x450",
+            "releaseDate": "2023-07-28T07:17:03-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-28T07:36:36-04:00",
+                "duration": 3771,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/849434108.m3u8?s=a1421ef83bcd4f5331b42de7f03f73d75d6dfcba",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "849842652",
+            "title": "The Network 10",
+            "shortDescription": "Check out the artist from our network who made it on our countdown !",
+            "thumbnail": "https://i.vimeocdn.com/video/1704145270-b2273764238e30e2301cf690a85c70af98089c0c4b1dd2b667c2e2bdad3d91fc-d_800x450",
+            "releaseDate": "2023-07-30T00:59:43-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-07-30T12:26:37-04:00",
+                "duration": 3680,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/849842652.m3u8?s=976a5740e7f183b934b325cda34fbecdc2128cba",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "857378084",
+            "title": "Roc N Whips 2 0 Hosted By Delon White",
+            "shortDescription": "Roc N Whips Hosted By Delon White, Be sure to tune in and check out this special edition of \"Roc n Whips\" Hosted by RnB Sensation Delon White....\nthis episode will be showcasing some of his own personal favorite videos, airing August 27th, please help us with your support by sharing, His Super Hottt music videos are about to come your way. #roku #firestick #youtube #fyp #musicvideo",
+            "thumbnail": "https://i.vimeocdn.com/video/1716980632-4eef7b66dc9ceed21e1889410c56b4affdfc8c3531a219c36d310693db9d768b-d_800x450",
+            "releaseDate": "2023-08-23T23:57:44-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-08-27T13:47:18-04:00",
+                "duration": 1342,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/857378084.m3u8?s=c79e383b0d65fe76ae563dada5efa15f4936a503",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "858878079",
+            "title": "Babymommadramatrailer8-25-03 hb",
+            "shortDescription": "Babymommadramatrailer8-25-03 hb",
+            "thumbnail": "https://i.vimeocdn.com/video/1716510210-351ab2f90b24aa6fe76795a49c5b4e9b322b387392e1f9a08e2e8fa02fb1d67e-d_800x450",
+            "releaseDate": "2023-08-29T01:27:40-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-09-04T16:57:33-04:00",
+                "duration": 63,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/858878079.m3u8?s=161bd71c74ef263577019930bcee9a713b35b892",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "861040624",
+            "title": "Roc N Whips Hosted By Empress RA",
+            "shortDescription": "Be sure to tune in and check out this special edition of \"Roc n Whips\" Hosted by RnB/Rap Sensation Empress RA....\nthis episode will be showcasing some of her own top 6 personal favorite videos, airing Sept 7th, please help us with your support by sharing, Her Super Hottt top 6 music videos that are about to come your way. #roku #firestick #youtube #fyp #musicvideo",
+            "thumbnail": "https://i.vimeocdn.com/video/1719446486-f0a2d8e41a093487c99d39cf5d027bb5de8d4483fd1dcaac1678194eef7456fc-d_800x450",
+            "releaseDate": "2023-09-04T17:05:27-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-09-07T09:50:58-04:00",
+                "duration": 1621,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/861040624.m3u8?s=853f540e6d833a44afcd9d22c5a5cc826ac688e7",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "861053049",
+            "title": "Roc N Whips Hosted By Mc Andrew Love",
+            "shortDescription": "Be sure to tune in and check out this special edition of \"Roc n Whips\" Hosted by MC Andrew Love....\nthis episode will be showcasing some of his own personal favorite videos, airing Sept 10th, please help us with your support by sharing, His Super Hottt music videos are about to come your way. #roku #firestick #youtube #fyp #musicvideo",
+            "thumbnail": "https://i.vimeocdn.com/video/1719446322-5ee5331522daa48dcad26e328ec803f8807ee893a6b6ff9cd0f6471d0d0f4bde-d_800x450",
+            "releaseDate": "2023-09-04T18:14:22-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-09-13T00:52:33-04:00",
+                "duration": 2562,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/861053049.m3u8?s=8ed08d6ea4b1f1869779dbe10f36211c69396113",
+                        "quality": "HD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "865806157",
+            "title": "Da ElRoy's Hosted By: Selectaroc",
+            "shortDescription": "A Special Edition Episode showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys\" as some say in the streets.",
+            "thumbnail": "https://i.vimeocdn.com/video/1726025087-7db712633f480550dacb7e1284440e71fcc51a63a0e9dcab770b03c01e1e52fa-d_800x450",
+            "releaseDate": "2023-09-18T22:55:24-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-09-19T08:24:17-04:00",
+                "duration": 3682,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/865806157.m3u8?s=0b94a06ceb71ab9d315c2f2c4729a314a926130b",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "865933543",
+            "title": "Da Elroys Hosted By Tierra hb",
+            "shortDescription": "A Special Edition Episode showing some types of crime and justice from body cams and cameras of everyday people, you'll learn what to do and what to not do when dealing with the police, or \"Da ElRoys\" as some say in the streets.\n#cops #policeofficer #thinblueline #sheriff #india #instagram #k #swat #lawenforcement #love #cop #backtheblue #policeman #upsc #a #policiamilitar #news #policia #police #covid #polizei #tactical #army #firstresponders #usa #fire #policecar #military #bluelivesmatter #firefighter",
+            "thumbnail": "https://i.vimeocdn.com/video/1726208948-b798c368678803754cebb82ede6288e94c4207bbdf9bcbd62914633d54b6b316-d_800x450",
+            "releaseDate": "2023-09-19T08:16:33-04:00",
+            "genres": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "tags": [
+                "action",
+                "comedy",
+                "crime",
+                "documentary",
+                "drama",
+                "educational",
+                "food",
+                "fashion",
+                "health",
+                "horror",
+                "miniseries",
+                "mystery",
+                "news",
+                "special",
+                "thriller"
+            ],
+            "content": {
+                "dateAdded": "2023-09-19T14:35:07-04:00",
+                "duration": 1977,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/865933543.m3u8?s=fb5279a1f52ed96fa95a3dad543a894870055223",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        }
+    ]
 }
